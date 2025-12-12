@@ -1,4 +1,13 @@
+# Python environments
 .venv/
 __pycache__/
-ts_results/*
-local/_archive/
+
+# Results / generated outputs
+ts_results/
+fig_results/
+
+# Large historical / experimental archive
+_archive/
+
+# macOS
+.DS_Store
