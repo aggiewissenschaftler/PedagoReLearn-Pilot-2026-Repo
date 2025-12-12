@@ -1,7 +1,0 @@
-,reward_mean,reward_mean,reward_mean,reward_sd,reward_sd,reward_sd,reward_n,reward_n,reward_n,reward_ci95_half,reward_ci95_half,reward_ci95_half,steps_mean,steps_mean,steps_mean,steps_sd,steps_sd,steps_sd,steps_n,steps_n,steps_n,steps_ci95_half,steps_ci95_half,steps_ci95_half,acc_mean,acc_mean,acc_mean,acc_sd,acc_sd,acc_sd,acc_n,acc_n,acc_n,acc_ci95_half,acc_ci95_half,acc_ci95_half
-,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count
-config,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fixed,766.68,,1,0.0,,1,10.0,,1,,,1,32.0,,1,0.0,,1,10.0,,1,0.0,,1,,,0,,,0,0.0,,1,,,0
-Random,766.68,,1,0.0,,1,10.0,,1,,,1,32.0,,1,0.0,,1,10.0,,1,0.0,,1,,,0,,,0,0.0,,1,,,0
-SARSA_agg,120.01000000000006,,1,54.9225606346488,,1,10.0,,1,,,1,23.9,,1,16.285303531439354,,1,10.0,,1,10.093735703120249,,1,0.1581204036854191,,1,0.1655272937326885,,1,10.0,,1,0.102594879571326,,1
-SARSA_full,128.16000000000008,,1,37.357736072257495,,1,10.0,,1,,,1,29.4,,1,12.833982667555349,,1,10.0,,1,7.954584869397299,,1,0.0735984848484848,,1,0.0769881455708284,,1,10.0,,1,0.0477177469959387,,1
