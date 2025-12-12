@@ -1,0 +1,27 @@
+DE:
+  REQUIRED:
+    autobahn_rules:
+      description: "Stay right except to pass; respect speed limits and lane discipline."
+      correct: ["Keep right", "Use left lane only to pass"]
+      incorrect: ["Cruise in left lane"]
+    public_transport:
+      description: "Validate tickets and expect inspections."
+      correct: ["Validate ticket", "Have ticket ready"]
+      incorrect: ["Ride without ticket"]
+  SUGGESTED:
+    parking:
+      description: "Follow strict parking rules, zones, and discs."
+      correct: ["Use parking disc", "Observe permits"]
+      incorrect: ["Ignore parking zones"]
+    cyclists:
+      description: "Respect bike lanes."
+      correct: ["Stay out of bike lanes"]
+      incorrect: ["Walk in bike lanes"]
+    vacation_planning:
+      description: "Vacations planned well in advance, often long blocks."
+      correct: ["Plan 2–3 week vacations", "Book early"]
+      incorrect: ["Last-minute trips"]
+    environmental_zones:
+      description: "Some cities require Umweltplakette (emission sticker)."
+      correct: ["Car with green sticker"]
+      incorrect: ["Drive without sticker"]

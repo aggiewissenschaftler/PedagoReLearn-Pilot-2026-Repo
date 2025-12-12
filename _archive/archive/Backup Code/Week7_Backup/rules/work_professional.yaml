@@ -1,0 +1,27 @@
+DE:
+  REQUIRED:
+    authority_respect:
+      description: "Use formal titles consistently in professional and academic settings."
+      correct: ["Herr Doktor Schmidt", "Frau Professorin Müller"]
+      incorrect: ["Schmidt", "Müller", "Hey Prof"]
+  SUGGESTED:
+    work_life_separation:
+      description: "Keep personal and professional lives distinct."
+      correct: ["No calls after hours", "Limit emails on weekends"]
+      incorrect: ["Message boss at night", "Invite professor to family BBQ"]
+    consensus_culture:
+      description: "Group agreements valued over individual decisions."
+      correct: ["Wir haben entschieden...", "Lassen Sie uns gemeinsam zustimmen."]
+      incorrect: ["I decided alone.", "My choice only."]
+    meeting_punctuality:
+      description: "German meetings start precisely on time."
+      correct: ["Arrive early", "Stick to agenda"]
+      incorrect: ["Arrive late", "Deviate from agenda"]
+    dress_expectations:
+      description: "German workplaces expect more formal attire than American business casual."
+      correct: ["Conservative clothing", "Smart casual"]
+      incorrect: ["Casual Friday everyday", "Flashy outfits"]
+    coffee_break_rituals:
+      description: "Coffee breaks (Kaffeepause) are important social times."
+      correct: ["Participate in coffee breaks", "Respect timing"]
+      incorrect: ["Skip breaks", "Ignore social aspects"]

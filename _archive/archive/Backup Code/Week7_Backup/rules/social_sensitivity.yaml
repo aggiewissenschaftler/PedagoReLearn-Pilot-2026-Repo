@@ -1,0 +1,22 @@
+DE:
+  REQUIRED:
+    forbidden_topics:
+      description: "Certain topics should never be discussed in public."
+      avoid: ["US military operations", "Personal finances", "WWII comparisons"]
+    sensitive_historical_topics:
+      description: "Approach WWII and historical topics with extreme sensitivity."
+      correct: ["Respectful museum visits"]
+      incorrect: ["Holocaust jokes", "Nazi comparisons"]
+  SUGGESTED:
+    patriotism_display:
+      description: "Avoid overt displays of nationalism or uniforms off base."
+      correct: ["Civilian clothes off base"]
+      incorrect: ["Military-themed clothing"]
+    honesty_criticism:
+      description: "Expect frank criticism and directness."
+      correct: ["Danke für das Feedback."]
+      incorrect: ["Take offense"]
+    escalator_queuing:
+      description: "Stand right, walk left; respect queues."
+      correct: ["Stand right"]
+      incorrect: ["Block left side"]

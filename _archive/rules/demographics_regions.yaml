@@ -1,0 +1,35 @@
+DE:
+  REQUIRED:
+    city_life:
+      description: "Cities are diverse, international, faster-paced with more English speakers."
+      correct: ["Expect English in daily life", "Diverse communities"]
+      incorrect: ["Assume small-town norms"]
+    rural_life:
+      description: "Rural towns are traditional, conservative, and dialect-heavy."
+      correct: ["Use German/dialect", "Respect Sunday closures"]
+      incorrect: ["Expect English everywhere"]
+    east_germany:
+      description: "East Germany is more secular and politically sensitive."
+      correct: ["Understand atheism common", "Approach military topics cautiously"]
+      incorrect: ["Assume religious traditions"]
+    west_germany:
+      description: "West Germany has stronger Catholic/Protestant traditions."
+      correct: ["Respect Catholic holidays"]
+      incorrect: ["Ignore religious customs"]
+  SUGGESTED:
+    city_friendships:
+      description: "City friendships may be casual and transient."
+      correct: ["Expect slower trust-building"]
+      incorrect: ["Expect immediate closeness"]
+    rural_friendships:
+      description: "Rural friendships are deep once built."
+      correct: ["Invest time", "Join Vereine"]
+      incorrect: ["Avoid neighbors"]
+    east_west_economics:
+      description: "East has lower wages, West more affluent and centrist."
+      correct: ["Recognize wage differences"]
+      incorrect: ["Expect equal wages"]
+    military_perception:
+      description: "Military families blend differently by setting."
+      correct: ["Blend in cities", "Integrate in rural via clubs"]
+      incorrect: ["Stay isolated on base"]

@@ -1,0 +1,27 @@
+DE:
+  REQUIRED:
+    sunday_observance:
+      description: "Sunday is traditionally a day of rest with both religious and cultural significance."
+      correct: ["Quiet Sundays", "Family gatherings"]
+      incorrect: ["Loud activities", "Complain about closures"]
+    religious_holidays:
+      description: "German religious holidays significantly impact daily life."
+      correct: ["Respect Good Friday", "Understand Easter closures"]
+      incorrect: ["Plan loud events on holidays"]
+  SUGGESTED:
+    interfaith_sensitivity:
+      description: "Respect diverse religious populations (Christian, Muslim, Jewish)."
+      correct: ["Respect mosque, synagogue, church"]
+      incorrect: ["Ignore other faiths"]
+    religious_symbols:
+      description: "Religious symbols in public and private spaces are common."
+      correct: ["Respect crucifixes", "Appreciate art"]
+      incorrect: ["Mock symbols"]
+    church_tax_system:
+      description: "Church tax (Kirchensteuer) supports religious institutions."
+      correct: ["Understand contributions"]
+      incorrect: ["Criticize system"]
+    funeral_customs:
+      description: "Funeral and wedding customs have strict protocols."
+      correct: ["Attend if invited", "Appropriate flowers"]
+      incorrect: ["Skip funeral"]

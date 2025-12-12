@@ -1,0 +1,17 @@
+# Core dependencies
+gymnasium>=0.29.1
+numpy>=1.24
+pyyaml>=6.0
+
+# Data analysis and visualization
+matplotlib>=3.8
+pandas>=2.0
+rich>=13.7               # pretty console output for episode logs and debug messages
+
+# Optional: exporting, Excel, and image support
+openpyxl>=3.1
+pillow>=10.0
+
+# Development utilities (optional but helpful)
+pytest>=8.0
+jupyter>=1.0

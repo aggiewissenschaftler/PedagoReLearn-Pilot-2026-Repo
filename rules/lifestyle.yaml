@@ -1,0 +1,27 @@
+DE:
+  REQUIRED:
+    sunday_rest:
+      description: "Sundays are quiet family days; shops closed."
+      correct: ["Spend time with family", "Plan shopping Saturday"]
+      incorrect: ["Loud activities", "Expect Sunday shopping"]
+    energy_saving:
+      description: "Energy conservation is a social norm."
+      correct: ["Turn off lights", "Stoßlüften"]
+      incorrect: ["Leave lights on"]
+  SUGGESTED:
+    politics_discussion:
+      description: "Political discussions are common but should be respectful."
+      correct: ["Stay informed", "Respect differing views"]
+      incorrect: ["Dominate with U.S. politics"]
+    healthcare_norms:
+      description: "Universal healthcare emphasizes prevention; wait times differ from U.S."
+      correct: ["Use preventive care"]
+      incorrect: ["Complain about delays"]
+    grocery_shopping:
+      description: "Grocery stores are smaller; markets are valued."
+      correct: ["Shop weekly markets"]
+      incorrect: ["Expect bulk shopping"]
+    daily_routines:
+      description: "Weekdays begin early; lunch longer; evenings lighter meals."
+      correct: ["Start work 7:30–8:00", "Plan light Abendbrot"]
+      incorrect: ["Expect 24/7 availability"]

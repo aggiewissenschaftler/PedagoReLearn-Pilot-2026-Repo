@@ -1,0 +1,32 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "episodes": 50,
+  "rules_dir": "/Users/thomas.hallmark/Library/CloudStorage/OneDrive-TexasA&MUniversity/TAMU/Student/Classes/By_Semester/2025 C Fall/CSCE 642 RL/1 - Project RL - 2025C/PedagoReLearn/rules",
+  "culture": "DE",
+  "tag": "b",
+  "no_summary": false,
+  "alpha": 0.5,
+  "gamma": 0.85,
+  "eps0": 0.25,
+  "decay": 0.96,
+  "min_eps": 0.02,
+  "max_steps": 35,
+  "correct_bonus": 10.0,
+  "wrong_penalty": -2.0,
+  "step_cost": -0.15,
+  "mastery_bonus": 3.0,
+  "pragmatics_bonus": 5.0,
+  "end_bonus_mastery": 20.0,
+  "timeout_penalty": -10.0
+}

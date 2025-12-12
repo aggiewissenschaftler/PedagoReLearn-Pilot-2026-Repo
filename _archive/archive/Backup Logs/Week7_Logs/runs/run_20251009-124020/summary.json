@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-10-09T12:40:22",
+  "policy": "sarsa",
+  "seed": 0,
+  "mode": "auto-stop",
+  "episodes_total": 200,
+  "steps_cap_per_episode": 40,
+  "successes": 200,
+  "success_rate_pct": 100.0,
+  "mean_reward": 764.501,
+  "mean_steps": 32.615,
+  "reward_trend": "improving",
+  "success_trend": "plateauing",
+  "maturity_eval_based": "Developing",
+  "auto_stop_target_pct": 80.0,
+  "auto_stop_achieved": true,
+  "episodes_at_target": 200,
+  "first_success_ep_global": 0,
+  "phases": [
+    {
+      "phase_index": 1,
+      "episodes": 200,
+      "success_rate_pct": 100.0,
+      "mean_reward": 764.501,
+      "mean_steps": 32.615,
+      "eval_success_rate_pct": 64.0,
+      "eval_mean_reward": 796.7,
+      "checkpoint": "runs/run_20251009-124020/checkpoints/sarsa_ep200.pkl",
+      "trend_fig": "runs/run_20251009-124020/figs/trend_phase1_ep200.png"
+    }
+  ]
+}

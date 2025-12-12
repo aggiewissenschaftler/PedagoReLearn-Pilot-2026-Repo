@@ -1,0 +1,12 @@
+# RL Core dependencies
+gymnasium
+numpy
+
+# Cross Cultural Competence (CCC) Core
+# pyyaml
+
+# Data analysis and visualization
+matplotlib
+scikit-learn
+tqdm
+

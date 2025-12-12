@@ -1,0 +1,19 @@
+DE:
+  REQUIRED:
+    consent_norms:
+      description: "Sexual relationships emphasize consent and discretion."
+      correct: ["Clear mutual consent", "Respect privacy"]
+      incorrect: ["Assume casual attitudes", "Ignore partner’s signals"]
+    lgbtq_acceptance:
+      description: "LGBTQ+ relationships are broadly accepted, especially in cities."
+      correct: ["Respect same-sex couples"]
+      incorrect: ["Discrimination", "Hostile remarks"]
+  SUGGESTED:
+    dating_norms:
+      description: "Dating is more private; PDA is restrained."
+      correct: ["Private relationships", "Low-key affection"]
+      incorrect: ["Overt public PDA"]
+    casual_relationships:
+      description: "Hook-ups exist but are discreet; not flaunted."
+      correct: ["Discretion in casual encounters"]
+      incorrect: ["Bragging openly"]

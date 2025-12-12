@@ -1,0 +1,23 @@
+DE:
+  REQUIRED:
+    family_dining_traditions:
+      description: "Sunday family meals are extended, multi-generational events."
+      correct: ["Include grandparents", "2–3 hours long"]
+      incorrect: ["Quick meals", "Nuclear family only"]
+    children_behavior:
+      description: "Children expected to be supervised and quiet in public."
+      correct: ["Keep kids calm on train"]
+      incorrect: ["Let kids shout in café"]
+  SUGGESTED:
+    friendship_development:
+      description: "Friendships develop slowly and are taken seriously."
+      correct: ["Be patient", "Respect invitations"]
+      incorrect: ["Expect immediate closeness"]
+    weekend_family_traditions:
+      description: "Weekend family time follows established traditions."
+      correct: ["Sunday family meals", "Extended gatherings"]
+      incorrect: ["Skip family meals"]
+    outdoor_recreation:
+      description: "Germans prioritize outdoor activities."
+      correct: ["Hiking", "Cycling", "Forest walks"]
+      incorrect: ["Indoor-only leisure"]

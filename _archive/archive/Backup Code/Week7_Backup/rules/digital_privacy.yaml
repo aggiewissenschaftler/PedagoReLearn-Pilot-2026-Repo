@@ -1,0 +1,19 @@
+DE:
+  REQUIRED:
+    privacy_gdpr:
+      description: "Germans are extremely privacy-conscious."
+      correct: ["Ask before photos", "Respect GDPR"]
+      incorrect: ["Take photos without consent"]
+    digital_formality:
+      description: "Maintain formality in digital communication."
+      correct: ["Proper punctuation", "Formal greetings"]
+      incorrect: ["Excessive emoji", "all lowercase"]
+  SUGGESTED:
+    internet_wifi:
+      description: "Public Wi-Fi less ubiquitous; privacy laws strict."
+      correct: ["Use secure networks"]
+      incorrect: ["Share unsecured Wi-Fi"]
+    social_media_caution:
+      description: "Be cautious with social media posting and location data."
+      correct: ["Private settings", "Avoid location tags near bases"]
+      incorrect: ["Public military posts"]
